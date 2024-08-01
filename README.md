@@ -1,1 +1,1 @@
-# AuraTech_IA
+# SummerCamp2024
